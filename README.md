@@ -1,4 +1,4 @@
-# flightpriceprediction
+# Flightpriceprediction
 
 Overview- This project focuses on predicting airline flight prices using a machine learning approach. The goal was to apply data science and machine learning techniques to build a model with strong predictive performance.
 
